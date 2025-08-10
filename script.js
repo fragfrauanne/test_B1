@@ -102,6 +102,8 @@ function repositionCard(card) {
     }
 }
 
+
+
 // Überprüft, ob alle Karten entfernt wurden und das Feuerwerk angezeigt werden soll.
 function checkEnd() {
     if (container.children.length === 0) {
@@ -122,3 +124,4 @@ toggleBtn.addEventListener("click", () => {
     container.classList.toggle("stack-mode", isStacked);
     container.classList.toggle("grid-mode", !isStacked);
 });
+
