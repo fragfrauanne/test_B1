@@ -153,7 +153,7 @@ h1 {
     /* padding: 10px 10px 20px 10px; */
     /* Oben, Rechts, Unten, Links – hier hast du z.B. mehr Platz unten */
     font-weight: normal;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
     hyphens: auto;
     padding: 1.4rem 1rem;
@@ -164,7 +164,7 @@ h1 {
     word-break: break-word;
     /* overflow-wrap: break-word; */
     backface-visibility: hidden;
-    background: linear-gradient(135deg, #f3e5f5, #e1bee7);
+    background: linear-gradient(135deg, #c4a8e0, #e1bee7);
     /* Roter Farbverlauf =  135deg, #ff9999, #ffcccc */
     /* Grüner Farbverlauf =  135deg, #b3d285, #70b848 */
     /* Violetter Farbverlauf =  135deg, #f3e5f5, #e1bee7 */
