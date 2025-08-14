@@ -158,7 +158,7 @@ h1 {
     hyphens: auto;
     padding: 1.4rem 1rem;
     box-sizing: border-box;
-    font-size: clamp(1rem, 1.5vw, 1.2rem);
+    /*font-size: clamp(1rem, 1.5vw, 1.2rem); */
     overflow-wrap: break-word;
     overflow-y: auto;
     word-break: break-word;
