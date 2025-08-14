@@ -164,10 +164,10 @@ h1 {
     word-break: break-word;
     /* overflow-wrap: break-word; */
     backface-visibility: hidden;
-    background: linear-gradient(135deg, #c4a8e0, #e1bee7);
+    background: linear-gradient(135deg, #e1bee7, #c4a8e0);
     /* Roter Farbverlauf =  135deg, #ff9999, #ffcccc */
     /* Grüner Farbverlauf =  135deg, #b3d285, #70b848 */
-    /* Violetter Farbverlauf =  135deg, #f3e5f5, #e1bee7 */
+    /* Violetter Farbverlauf =  135deg, #e1bee7, #c4a8e0 */
 }
 
 .card-back {
