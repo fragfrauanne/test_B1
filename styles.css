@@ -127,11 +127,6 @@ h1 {
 
 .card-front,
 .card-back {
-    /* styles for card text scrolling */
-    /* IE and Edge fallback*/
-    -ms-overflow-style: none;
-    /* Firefox */
-    scrollbar-width: none;
     position: absolute;
     width: 100%;
     height: 100%;
@@ -141,21 +136,15 @@ h1 {
     justify-content: center;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     /* Das sorgt dafür, dass Padding und Border in der festen Größe enthalten sind */
-    /* padding: 10px 10px 20px 10px; */
+    padding: 10px 10px 20px 10px;
     /* Oben, Rechts, Unten, Links – hier hast du z.B. mehr Platz unten */
     font-weight: normal;
     font-size: 18px;
     text-align: center;
     hyphens: auto;
-    padding: 1.4rem 1rem;
-    box-sizing: border-box;
-    font-size: clamp(1rem, 1.5vw, 1.2rem);
     overflow-wrap: break-word;
-    overflow-y: auto;
-    word-break: break-word;
-    /* overflow-wrap: break-word; */
     backface-visibility: hidden;
     background: linear-gradient(135deg, #f3e5f5, #e1bee7);
     /* Roter Farbverlauf =  135deg, #ff9999, #ffcccc */
