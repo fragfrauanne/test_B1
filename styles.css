@@ -50,7 +50,7 @@ h1 {
 @media (max-width: 1024px) {
     .cards-container.grid-mode {
         grid-template-columns: repeat(4, 1fr);
-        padding: 10px 30px;
+        padding: 10px 20px;
 
     }
 }
@@ -60,7 +60,7 @@ h1 {
 @media (max-width: 768px) {
     .cards-container.grid-mode {
         grid-template-columns: repeat(3, 1fr);
-        padding: 10px 30px;
+        padding: 10px 20px;
 
     }
 }
@@ -70,7 +70,7 @@ h1 {
 @media (max-width: 480px) {
     .cards-container.grid-mode {
         grid-template-columns: repeat(2, 1fr);
-        padding: 10px 30px;
+        padding: 10px 20px;
 
     }
 }
@@ -80,7 +80,7 @@ h1 {
 @media (max-width: 360px) {
     .cards-container.grid-mode {
         grid-template-columns: 1fr;
-        padding: 10px 30px;
+        padding: 10px 20px;
 
     }
 }
