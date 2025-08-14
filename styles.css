@@ -232,7 +232,7 @@ footer {
     bottom: 20px;
     right: 20px;
     z-index: 1000;
-    background-color: #e1bee7;
+    background-color: #c4a8e0;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -244,7 +244,7 @@ footer {
 }
 
 #toggleLayoutBtn:hover {
-    background-color: #f3e5f5;
+    background-color: ##e1bee7;
 }
 
 /* layout switching modes */
