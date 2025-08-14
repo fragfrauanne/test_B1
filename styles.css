@@ -125,13 +125,6 @@ h1 {
     transform: rotateY(180deg);
 }
 
-
-/* styles for card text scrolling for Safari, Chrome, Opera*/
-.card-front::-webkit-scrollbar,
-.card-back::-webkit-scrollbar {
-    display: none;
-}
-
 .card-front,
 .card-back {
     /* styles for card text scrolling */
